@@ -1,2 +1,3 @@
-CREATE DATABASE salesDB;
-DROP DATABASE demo;
+CREATE DATABASE salesDB; # Creating database
+DROP DATABASE demo; # Deleting the database
+
